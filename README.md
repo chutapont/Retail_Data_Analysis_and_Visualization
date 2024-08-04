@@ -6,6 +6,8 @@ To analyze retail transactional data across five countries and gain overall insi
 
 This dataset consists of a detailed information regarding customer demographics, purchasing behaviors, transactional details, and customer satisfaction levels. The data has been collected from retail transactions made in five different countries, including the UK, Germany, Australia, the USA, and Canada.  
 
+Source: [Kaggle.com](https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset)
+
 ## Technologies Used
 **Microsoft Excel:** For data cleaning.
 
