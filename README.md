@@ -15,4 +15,4 @@ Source: [Kaggle.com](https://www.kaggle.com/datasets/bhavikjikadara/retail-trans
 
 **SQL:** For data transformation, loading into the database, and querying.
 
-**Tableau:** For data visualization.
+**Tableau:** For data visualization [Retail Transaction Analysis](https://public.tableau.com/views/retail_analysis_17227659849070/1CustomerDemographics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
