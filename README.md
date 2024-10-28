@@ -11,7 +11,7 @@ This dataset consists of a detailed information regarding customer demographics,
 Source: [Kaggle.com](https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset)
 
 ## Insights and Recommendations
-- Over 77k customers are regular customers that aged 20-29. They contribute up to 25% of the total sales amount. However, only 5k customers aged 20-29 are premium customers. Consider adding more benefits to the customer loyalty program to convert regular customers to premium customers and to retain those customers.
+- Over 77k customers are regular customers that aged 20-29. They contribute up to 25% of the total sales amount. However, only 13k customers aged 20-29 are premium customers. Consider adding more benefits to the customer loyalty program to convert regular customers to premium customers and to retain those customers.
 - While all product brands are generating stable sales across each month of the year, Electronic brands: BlueStar, Misubhisi, and Whirepool can generate sales in particular months only. Further investigation is needed to uncover the underlying reasons that bring about such result and consider adding promotions to recover sales.
   
 ## Technologies Used
